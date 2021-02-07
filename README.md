@@ -12,4 +12,4 @@
 
 📊 I work with Angular, Vue and CSS libraries like Tailwind.
 
-💼 I'm available for freelance missions so don't hesitate to contact me! 
+💼 I'm available for freelance missions.
