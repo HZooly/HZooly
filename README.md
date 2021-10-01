@@ -9,7 +9,3 @@
 💻 I'm a French frontend developer working [@PandaLab](https://github.com/PandaLab-SAS).
 
 💫 I build projects with [@pulsardev](https://github.com/pulsardev), like [Vue Tour](https://github.com/pulsardev/vue-tour) and [Freatle](https://freatle.com/en).
-
-📊 I work with Vue, Nuxt and CSS libraries like Tailwind.
-
-💼 I'm available for freelance missions.
