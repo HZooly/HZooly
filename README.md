@@ -6,6 +6,6 @@
 </p>
 
 ---
-💻 I'm a French frontend developer working [@Yescapa](https://yescapa.com/).
+💻 I'm a French frontend developer working [@Directus](https://directus.io/).
 
 💫 I build projects with [@pulsardev](https://github.com/pulsardev), like [Vue Tour](https://github.com/pulsardev/vue-tour) and [Freatle](https://freatle.com/en).
